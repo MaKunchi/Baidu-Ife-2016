@@ -1,3 +1,2 @@
 # Baidu-Ife-2016
-That's what I'm studying in during this 
-hahahaha,I am Makunchi
+百度前端技术学院2016春季
